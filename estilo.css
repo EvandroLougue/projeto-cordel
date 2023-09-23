@@ -1,0 +1,62 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Passion+One&family=Sriracha&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+:root {
+    --fonte0: Arial, Verdana, Helvetica, sans-serif; 
+    --fonte1: 'Sriracha';
+    --fonte2: 'Passion One';
+}
+body {
+    max-width: 800px;   
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    background-color: black;
+    height: 200px;
+}
+h1 {
+    text-align: center;
+    font-family: var(--fonte2);
+    font-size: 4em;
+    color: white;
+    padding-top: 50px;
+}
+p#autoria {
+    text-align: center;
+    color: white;
+}
+a#autor {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+main {
+    background-color: white;
+}
+.estrofe {
+    padding-top: 10%;
+    padding-left: 3%;
+    font-family: var(--fonte1);
+}
+footer {
+    background-color: black;
+    height: 50px;
+}
+footer > p {
+    color: white;
+    font-size: 16pt;
+    text-align: center;
+    padding-top: 10px;
+}
+a#rodape {
+    text-decoration: none;
+    color: white;
+}
+
