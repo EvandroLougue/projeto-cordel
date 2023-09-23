@@ -43,7 +43,26 @@ main {
 .estrofe {
     padding-top: 10%;
     padding-left: 3%;
+    padding-bottom: 10%;
     font-family: var(--fonte1);
+    font-size: 1em;
+}
+#estrofe2 {
+    background-image: url(imagens/background001.jpg);
+    background-position: center right;
+    color: white;
+}
+#estrofe2 > p {
+    background-color: rgba(0, 0, 0, 0.075);
+    margin-right: 70%;  
+}
+#estrofe5 {
+    background-image: url(imagens/background002.jpg);
+    background-position: left center;
+}
+#estrofe5 > p {
+    background-color: rgba(0, 0, 0, 0.075);
+    margin-right: 70%;
 }
 footer {
     background-color: black;
