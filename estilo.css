@@ -47,6 +47,10 @@ a#autor:hover {
 main {
     background-color: white;
 }
+section {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
 .estrofe {
     padding-top: 10%;
     padding-left: 3%;
@@ -82,7 +86,7 @@ footer > p {
     color: white;
     font-size: 14pt;
     text-align: center;
-    padding-top: 12px;
+    padding: 12px;
 }
 a#rodape {
     text-decoration: none;
