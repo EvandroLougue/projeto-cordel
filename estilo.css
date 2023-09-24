@@ -51,16 +51,20 @@ main {
     background-image: url(imagens/background001.jpg);
     background-position: center right;
     color: white;
+    
 }
 #estrofe2 > p {
-    background-color: rgba(0, 0, 0, 0.1);  
+    background-color: rgba(0, 0, 0, 0.1); 
+    margin-right: 50%; 
 }
 #estrofe5 {
     background-image: url(imagens/background002.jpg);
     background-position: left center;
+    
 }
 #estrofe5 > p {
     background-color: rgba(0, 0, 0, 0.1);
+    margin-right: 50%;
 }
 footer {
     background-color: black;
@@ -68,7 +72,7 @@ footer {
 }
 footer > p {
     color: white;
-    font-size: 16pt;
+    font-size: 14pt;
     text-align: center;
     padding-top: 10px;
 }
