@@ -64,11 +64,13 @@ section {
     background-position: center right;
     color: white;
     background-size: cover;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.397);
 }
 #estrofe2 > p, #estrofe5 > p {
-    background-color: rgba(0, 0, 0, 0.1); 
+    background-color: rgba(0, 0, 0, 0.4); 
     display: inline-block;
     padding: 10px;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.384);
 }
 #estrofe5 {
     background-color: gray;
@@ -76,6 +78,7 @@ section {
     background-position: left center;
     color: white;
     background-size: cover;
+    box-shadow: inset 6px 6px 13px 0px black;
 }
 footer {
     background-color: black;
