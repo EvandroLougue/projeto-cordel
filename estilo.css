@@ -53,8 +53,7 @@ main {
     color: white;
 }
 #estrofe2 > p {
-    background-color: rgba(0, 0, 0, 0.1);
-    margin-right: 50%;  
+    background-color: rgba(0, 0, 0, 0.1);  
 }
 #estrofe5 {
     background-image: url(imagens/background002.jpg);
@@ -62,7 +61,6 @@ main {
 }
 #estrofe5 > p {
     background-color: rgba(0, 0, 0, 0.1);
-    margin-right: 50%;
 }
 footer {
     background-color: black;
