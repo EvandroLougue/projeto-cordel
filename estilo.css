@@ -51,7 +51,7 @@ main {
     background-image: url(imagens/background001.jpg);
     background-position: center right;
     color: white;
-    
+    background-size: cover;
 }
 #estrofe2 > p {
     background-color: rgba(0, 0, 0, 0.1); 
@@ -60,7 +60,7 @@ main {
 #estrofe5 {
     background-image: url(imagens/background002.jpg);
     background-position: left center;
-    
+    background-size: cover;
 }
 #estrofe5 > p {
     background-color: rgba(0, 0, 0, 0.1);
