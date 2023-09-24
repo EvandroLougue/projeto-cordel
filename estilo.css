@@ -50,6 +50,7 @@ main {
 section {
     padding-top: 10vh;
     padding-bottom: 10vh;
+    line-height: 2em;
 }
 .estrofe {
     padding-top: 10%;
@@ -59,6 +60,7 @@ section {
     font-size: 1em;
 }
 #estrofe2 {
+    background-color: gray;
     background-image: url(imagens/background001.jpg);
     background-position: center right;
     color: white;
@@ -69,6 +71,7 @@ section {
     margin-right: 50%; 
 }
 #estrofe5 {
+    background-color: gray;
     background-image: url(imagens/background002.jpg);
     background-position: left center;
     color: white;
