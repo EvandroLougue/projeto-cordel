@@ -65,6 +65,7 @@ section {
     color: white;
     background-size: cover;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.397);
+    background-attachment: fixed;
 }
 #estrofe2 > p, #estrofe5 > p {
     background-color: rgba(0, 0, 0, 0.4); 
@@ -79,6 +80,7 @@ section {
     color: white;
     background-size: cover;
     box-shadow: inset 6px 6px 13px 0px black;
+    background-attachment: fixed;
 }
 footer {
     background-color: black;
